@@ -14,5 +14,7 @@ public class Exercise {
             System.out.println(str.substring(i,i+1));
         }
 
+
+
     }
 }
