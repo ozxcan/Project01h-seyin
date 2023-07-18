@@ -9,5 +9,10 @@ public class Exercise {
         System.out.println("I am learning Java");
         System.out.println("Ich lerne Java");
 
+        String str = "Hüseyin";
+        for (int i = 0; i < 7; i++) {
+            System.out.println(str.substring(i,i+1));
+        }
+
     }
 }
