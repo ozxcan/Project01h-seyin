@@ -4,6 +4,7 @@ public class Exercise {
 
         System.out.println("Hello World!");
         System.out.println("Here we go!");
+        System.out.println("Lets do it");
 
     }
 }
