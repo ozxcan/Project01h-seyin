@@ -5,6 +5,7 @@ public class Exercise {
         System.out.println("Hello World!");
         System.out.println("Here we go!");
         System.out.println("Lets do it");
+        System.out.println("Java ile hayat güzel");
 
     }
 }
